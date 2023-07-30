@@ -1,4 +1,4 @@
-CCTV1,#genre#
+央视,#genre#
 
 CCTV1,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV1,http://media.hndyjyfw.gov.cn/live/jz-CCTV1/live.m3u8
@@ -100,7 +100,7 @@ CCTV1,http://123.6.9.146:80/live/jz-CCTV1/live.m3u8
 
 
 
-CCTV2,#genre#
+
 CCTV2,http://221.213.43.82:8888/newlive/live/hls/3/live.m3u8
 CCTV2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
 CCTV2,http://china.733240.com/cqyx.php?id=cctv2
@@ -263,7 +263,6 @@ CCTV2,https://php.61073736.repl.co/sxg.php?id=CCTV2H265_4000
 
 
 
-CCTV3,#genre#
 CCTV3,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
 CCTV3,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -435,7 +434,6 @@ CCTV3,https://php.61073736.repl.co/sxg.php?id=CCTV3H265_4000
 
 
 
-CCTV4,#genre#
 CCTV4欧洲,http://dl.zhoujie218.top/dl/gdtv2.php?migu/608807419
 CCTV4美洲,http://dl.zhoujie218.top/dl/gdtv2.php?migu/608807416
 CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
@@ -651,7 +649,6 @@ CCTV4,http://39.134.66.66/PLTV/88888888/224/3221225797/index.m3u8
 
 
 
-CCTV5,#genre#
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?blog.ntnas.top
 CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV5+,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
@@ -1082,7 +1079,6 @@ CCTV5,https://php.61073736.repl.co/sxg.php?id=CCTV5H265_4000
 
 
 
-CCTV6,#genre#
 CCTV6,http://183.196.25.171:808/hls/76/index.m3u8
 CCTV6,http://cyz32.livehbindex.hbcatv.cn/live/50000020da6d4c40a2ca3b1bdc786016.m3u8?bitrate=2300&pt=5
 CCTV6,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
@@ -1236,7 +1232,7 @@ CCTV6,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&amp;Content
 
 
 
-CCTV7,#genre#
+
 CCTV7,http://media.hndyjyfw.gov.cn/live/jz-CCTV7/live.m3u8#hhttp://www.xuweihome.vip:2222/udp/239.253.248.235:8000
 CCTV7,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
 CCTV7,https://media.hndyjyfw.gov.cn/live/jz-CCTV7/live.m3u8#hhttps://www.xuweihome.vip:2222/udp/239.253.248.235:8000
@@ -1388,7 +1384,6 @@ CCTV7,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&amp;Content
 
 
 
-CCTV8,#genre#
 CCTV8,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
 CCTV8,http://maomao.kandiantv.cn/m3u8.php/migu/624878356
 CCTV8,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
@@ -1574,7 +1569,7 @@ CCTV8,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226005/1/index.m3u8
 
  
 
-CCTV9,#genre#
+
 CCTV9,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8
 CCTV9,http://221.213.43.82:8888/newlive/live/hls/11/live.m3u8
 CCTV9,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226657/1.m3u8
@@ -1727,7 +1722,7 @@ CCTV9,http://222.175.159.226:808/hls/202310/index.m3u8
 
 
 
-CCTV10,#genre#
+
 CCTV10,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV10,http://183.196.25.171:808/hls/10/index.m3u8
 CCTV10,http://221.213.43.82:8888/newlive/live/hls/12/live.m3u8
@@ -1866,7 +1861,7 @@ CCTV10,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&amp;Conten
 
 
 
-CCTV11,#genre#
+
 CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?
 CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
 CCTV11,http://cyz32.livehbindex.hbcatv.cn/live/5000002086444f0886ad7032ad8f756b.m3u8?bitrate=2300&pt=5
@@ -1984,7 +1979,7 @@ CCTV11,http://39.134.66.66/PLTV/88888888/224/3221225517/index.m3u8
 
 
 
-CCTV12,#genre#
+
 CCTV12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226748/1.m3u8
 CCTV12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
 CCTV12,http://media.hndyjyfw.gov.cn/live/jz-CCTV12/live.m3u8
@@ -2121,7 +2116,7 @@ CCTV12,https://php.61073736.repl.co/sxg.php?id=CCTV12H265_4000
 
 
 
-CCTV13,#genre#
+
 CCTV13,http://hls.hsrtv.cn/live/hsyouxian.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mCCTV13.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0?zyangd
 CCTV13,http://221.213.43.82:8888/newlive/live/hls/15/live.m3u8
@@ -2271,7 +2266,6 @@ CCTV13,https://php.61073736.repl.co/sxg.php?id=CCTV-xw_4000
 
 
 
-CCTV14,#genre#
 CCTV14,http://media.hndyjyfw.gov.cn/live/jz-CCTV14/live.m3u8
 CCTV14,http://123.6.9.146/live/jz-CCTV14/live.m3u8?zyangd
 CCTV14,http://221.213.43.82:8888/newlive/live/hls/16/live.m3u8
@@ -2415,7 +2409,7 @@ CCTV14,https://php.61073736.repl.co/sxg.php?id=CCTV14H265_4000
 
 
 
-CCTV15,#genre#
+
 CCTV15,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV15,http://cyz32.livehbindex.hbcatv.cn/live/50000020f44f4f4b8aa33925dba216df.m3u8?bitrate=2300&pt=5
 CCTV15,https://live.v1.mk/api/bestv.php?id=cctv158m/8000000
@@ -2523,7 +2517,7 @@ CCTV15,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&amp;Conten
 
 
 
-CCTV16,#genre#
+
 CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
@@ -2651,7 +2645,6 @@ CCTV16,https://php.61073736.repl.co/sxg.php?id=CCTV16-4K_8000
 
 
 
-CCTV17,#genre#
 CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8
 CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8?
 CCTV17,http://223.151.51.27:85/tsfile/live/1001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
@@ -2755,7 +2748,7 @@ CCTV17,https://php.61073736.repl.co/sxg.php?id=CCTV17_4000
 
 
 
-CCTV兵器科技,#genre#
+
 CCTV兵器科技,http://111.20.40.170/PLTV/88888893/224/3221226975/index.m3u8
 CCTV兵器科技,http://111.20.40.162:80/PLTV/88888893/224/3221226975/index.m3u8
 CCTV兵器科技,http://111.20.40.160:80/PLTV/88888893/224/3221226975/index.m3u8
@@ -2843,7 +2836,7 @@ CCTV风云剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TV
 
 
 
-CCTV风云音乐,#genre#
+
 CCTV风云音乐,http://111.20.40.162:80/PLTV/88888893/224/3221226953/index.m3u8
 CCTV风云音乐,http://gxdl-lhs.8866.org:85/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
@@ -2880,7 +2873,6 @@ CCTV风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1
 
 
 
-CCTV风云足球,#genre#
 CCTV风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
 CCTV风云足球,http://111.20.40.162:80/PLTV/88888893/224/3221226984/index.m3u8
 CCTV风云足球,http://111.20.40.160:80/PLTV/88888893/224/3221226984/index.m3u8
@@ -2918,7 +2910,7 @@ CCTV风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380
 
 
 
-CCTV电视指南,#genre#
+
 CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/index.m3u8
 CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 CCTV电视指南,http://111.20.40.174/PLTV/88888893/224/3221226987/index.m3u8
@@ -2962,7 +2954,7 @@ CCTV电视指南,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1
 
 
 
-CCTV高尔夫网球,#genre#
+
 CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/index.m3u8
 CCTV高尔夫网球,http://111.20.40.174/PLTV/88888893/224/3221226978/index.m3u8
 CCTV高尔夫网球,http://111.20.40.160:80/PLTV/88888893/224/3221226978/index.m3u8
@@ -3008,7 +3000,6 @@ CCTV高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/322122611
 
 
 
-CCTV怀旧剧场,#genre#
 CCTV怀旧剧场,http://111.20.40.170/PLTV/88888893/224/3221226972/index.m3u8
 CCTV怀旧剧场,http://111.20.40.162:80/PLTV/88888893/224/3221226972/index.m3u8
 CCTV怀旧剧场,http://111.20.40.160:80/PLTV/88888893/224/3221226972/index.m3u8
@@ -3054,7 +3045,6 @@ CCTV怀旧剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1
 
 
 
-央视,#genre#
 CCTV女性时尚,http://111.20.35.103:6610/yinhe/2/ch00000090990000001316/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV女性时尚,http://111.20.40.163/PLTV/88888893/224/3221226969/index.m3u8
 CCTV女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -3076,7 +3066,7 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/i
 
 
 
-CCTV世界地理,#genre#
+
 CCTV世界地理,http://111.20.40.170/PLTV/88888893/224/3221226947/index.m3u8
 CCTV世界地理,http://111.20.40.162:80/PLTV/88888893/224/3221226947/index.m3u8
 CCTV世界地理,http://111.20.40.160:80/PLTV/88888893/224/3221226947/index.m3u8
@@ -3126,7 +3116,6 @@ CCTV世界地理,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1
 
 
 
-CCTV央视台球,#genre#
 CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 CCTV文化精品,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 CCTV文化精品,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
@@ -3170,8 +3159,6 @@ CCTV文化精品,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1
 
 
 
-
-CCTV央视台球,#genre#
 CCTV央视台球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8
 CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
@@ -3216,7 +3203,6 @@ CCTV央视台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1
 
 
 
-CCTN,#genre#
 CGTN,http://112.25.47.74/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
 CGTN国际,http://39.134.65.181/PLTV/88888888/224/3221225510/index.m3u8
 CGTN记录,https://livedoc.cgtn.com/1000d/prog_index.m3u8
