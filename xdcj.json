@@ -2,7 +2,8 @@
   "spider": "./uyv0t678c488189af47bb91dc108484d17431.jar",
   "wallpaper": "https://invalid.gq/IS8nrIwAOp7v1A",
   "sites": [
-    
+    {"key":"csp_DouDou","name":"🔍豆瓣┃本接口免费-🈲贩
+    卖","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
     {
       "key": "快云资源",
       "name": "快云采集",
