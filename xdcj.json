@@ -12,6 +12,36 @@
     "filterable":1
     },
     {
+    "key": "玩偶",
+    "name": "玩偶哥哥|4K",
+    "type": 3,
+    "api": "csp_Wogg",
+    "searchable": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": {
+        "token": "./token.txt",
+        "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
+        "danmu": false
+    },
+    "jar": "./lib/928.jar"
+    },
+    {
+    "key": "玩偶弹幕版",
+    "name": "玩偶哥哥弹幕版|4K",
+    "type": 3,
+    "api": "csp_Wogg",
+    "searchable": 1,
+    "filterable": 1,
+    "changeable": 0,
+    "ext": {
+        "token": "./token.txt",
+        "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
+        "danmu": true
+    },
+    "jar": "./lib/1012.jar"
+    },
+    {
       "key": "快云资源",
       "name": "快云采集",
       "type": 1,
