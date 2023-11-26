@@ -12,20 +12,6 @@
     "filterable":1
     },
     {
-       "key": "玩偶",
-       "name": "玩偶哥哥|4K",
-       "type": 3,
-       "api": "csp_Wogg",
-       "searchable": 1,
-       "filterable": 1,
-       "changeable": 1,
-       "ext": {
-       "token": "84e0028e4d97438283264aaa08c76240",
-       "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
-       "danmu": false
-       "jar": "./928.jar"        
-    },    
-    {
       "key": "快云资源",
       "name": "快云采集",
       "type": 1,
