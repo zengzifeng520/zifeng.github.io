@@ -137,6 +137,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
+                "token": "./token.txt",
         },
         {
             "key": "🦊YiSo",
