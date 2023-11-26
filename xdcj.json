@@ -158,6 +158,7 @@
       "filterable": 1,
       "ext": "./lib/玩偶哥哥.json",
       "jar": "./lib/xyq.jar"
+    },
     {
       "key": "快云资源",
       "name": "快云采集",
