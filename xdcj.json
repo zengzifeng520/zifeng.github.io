@@ -12,6 +12,161 @@
     "filterable":1
     },
     {
+    "key": "🍮Gitcafe6",
+    "name": "🍮纸条搜",
+    "type": 3,
+    "api": "csp_Paper",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "./token.txt",
+    "jar": "./lib/HeChengChaXiupm.jar"
+    },
+    {
+    "key": "🦊csp_WoGG",
+    "name": "🦊玩偶哥哥",
+    "type": 3,
+    "api": "csp_WoGG",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 0,
+    "ext": "./token.txt"
+    },
+    {
+    "key": "🦊YiSo",
+    "name": "🦊易搜",
+    "type": 3,
+    "api": "csp_YiSo",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": "./token.txt"
+    },
+    {
+    "key": "🦊Zhaozy",
+    "name": "🦊找资源",
+    "type": 3,
+    "api": "csp_Zhaozy",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": "./token.txt"
+    },
+    {
+    "key": "🦊PanSou",
+    "name": "🦊盘搜",
+    "type": 3,
+    "api": "csp_PanSou",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": "./token.txt"
+    },
+    {
+    "key": "🦊UpYun",
+    "name": "🦊Up搜",
+    "type": 3,
+    "api": "csp_UpYun",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": "./token.txt"
+    },
+    {
+    "key": "🦊PanSearch",
+    "name": "🦊盘Se",
+    "type": 3,
+    "api": "csp_PanSearch",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": "./token.txt"
+    },
+    {
+    "key": "🦊七夜",
+    "name": "🦊七夜",
+    "type": 3,
+    "api": "csp_Dovx",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": "./token.txt"
+    },  
+    {
+    "key": "🦉七夜8",
+    "name": "🦉七夜",
+    "type": 3,
+    "api": "csp_Dovx",
+    "searchable": 1,
+    "changeable": 1,
+    "ext": "./token.txt",
+    "jar": "./lib/pg.jar"
+    },
+    {
+    "key": "🦉雲搜8",
+    "name": "🦉雲搜",
+    "type": 3,
+    "api": "csp_UpYun",
+    "searchable": 1,
+    "changeable": 1,
+    "ext": "./token.txt",
+    "jar": "./lib/pg.jar"
+    },
+ 
+    {
+    "key": "📀csp_XYQHiker_DOVX搜索",
+    "name": "📀DOVX",
+    "type": 3,
+    "api": "csp_XYQHiker",
+    "playerType": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "./lib/DOVX搜索.json",
+    "jar": "./lib/xyq.jar"
+    },
+    {
+    "key": "📀csp_XYQHiker_盘搜索",
+    "name": "📀盘搜索",
+    "type": 3,
+    "api": "csp_XYQHiker",
+    "playerType": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "./lib/盘搜索.json",
+    "jar": "./lib/xyq.jar"
+    },
+    {
+    "key": "📀csp_XYQHikerAL_阿里云盘网",
+    "name": "📀阿里云盘",
+    "type": 3,
+    "api": "csp_XYQHikerAL",
+    "playerType": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "./lib/阿里云盘网.json",
+    "jar": "./lib/xyq.jar"
+    },
+    {
+    "key": "🍮UpYun6",
+    "name": "🍮优盘搜",
+    "type": 3,
+    "api": "csp_UpYun",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "./token.txt",
+    "jar": "./lib/HeChengChaXiupm.jar"
+    },
+    {
     "key": "玩偶",
     "name": "🐱玩偶猫贩子|4K",
     "type": 3,
