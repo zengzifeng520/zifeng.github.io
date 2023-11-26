@@ -2655,7 +2655,18 @@
         ]
       }
     }
-  ],
+  ], 
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "./zhibo.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ], 
   "flags": [
     "youku",
     "qq",
@@ -2703,17 +2714,6 @@
     "优酷视频",
     "芒果视频",
     "乐视视频"
-  ],
-  "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "./zhibo.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
   ],
   "ijk": [
     {
