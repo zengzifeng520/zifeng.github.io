@@ -49,7 +49,7 @@
             "api": "csp_AListxy",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "./lib/Alistxy.json"
+            "ext": "./Alistxy.json"
         },
         {
             "key": "荐片",
@@ -75,36 +75,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./lib/1012.jar"
-        },
-        {
-            "key": "♻️爱奇异",
-            "name": "爱奇艺",
-            "type": 3,
-            "api": "./lib/apiv197drpy2.min.js",
-            "ext": "./lib/aiqiyi.js"
-        },
-        {
-            "key": "🐿csp_KungFu4041",
-            "name": "🐿Token设置",
-            "type": 3,
-            "api": "csp_KungFu404",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/🐿ali.jar"
-        },
-        {
-            "key": "csp_woggcli",
-            "name": "🧚‍♂️俊哥玩偶.CLi",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/🧚‍♂️.jar"
+            "jar": "./1012.jar"
         },
         {
             "key": "🍮Gitcafe6",
@@ -115,7 +86,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/HeChengChaXiupm.jar"
+            "jar": "./HeChengChaXiupm.jar"
         },
         {
             "key": "🍮PanSou6",
@@ -126,7 +97,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/HeChengChaXiupm.jar"
+            "jar": "./HeChengChaXiupm.jar"
         },
         {
             "key": "🍮UpYun6",
@@ -137,7 +108,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/HeChengChaXiupm.jar"
+            "jar": "./HeChengChaXiupm.jar"
         },
         {
             "key": "🍮Zhaozy6",
@@ -148,14 +119,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$ygfxz$$$66666",
-            "jar": "./lib/HeChengChaXiupm.jar"
+            "jar": "./HeChengChaXiupm.jar"
         },
         {
             "key": "♻️drpy_js_ddys",
             "name": "♻️荐片",
             "type": 3,
             "api": "./lib/apiv197drpy2.min.js",
-            "ext": "./lib/荐片.js"
+            "ext": "./荐片.js"
         },
         {
             "key": "🦊csp_WoGG",
@@ -243,7 +214,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/xyq.jar"
+            "jar": "./xyq.jar"
         },
         {
             "key": "📀csp_Zhaozy5",
@@ -255,7 +226,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$yannanfei$$$abcdefg",
-            "jar": "./lib/xyq.jar"
+            "jar": "./xyq.jar"
         },
         {
             "key": "📀csp_AliPS",
@@ -267,7 +238,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/xyq.jar"
+            "jar": "./xyq.jar"
         },
         {
             "key": "📀csp_Yisou5",
@@ -279,7 +250,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/xyq.jar"
+            "jar": "./xyq.jar"
         },
         {
             "key": "📀csp_Upyunso5",
@@ -291,7 +262,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/xyq.jar"
+            "jar": "./xyq.jar"
         },
         {
             "key": "📀csp_XYQHiker_土拨鼠搜索",
@@ -303,7 +274,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./lib/土拨鼠搜索.json",
-            "jar": "./lib/xyq.jar"
+            "jar": "./xyq.jar"
         },
         {
             "key": "📀csp_XYQHikerAL_玩偶哥哥",
@@ -314,8 +285,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/玩偶哥哥.json",
-            "jar": "./lib/xyq.jar"
+            "ext": "./玩偶哥哥.json",
+            "jar": "./xyq.jar"
         },
         {
             "key": "📀csp_XYQHikerAL_云盘资源",
@@ -326,8 +297,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/云盘资源分享.json",
-            "jar": "./lib/xyq.jar"
+            "ext": "./云盘资源分享.json",
+            "jar": "./xyq.jar"
         },
         {
             "key": "📀csp_XYQHikerAL_我的小站",
@@ -338,8 +309,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/我的小站.json",
-            "jar": "./lib/xyq.jar"
+            "ext": "./我的小站.json",
+            "jar": "./xyq.jar"
         },
         {
             "key": "📀csp_XYQHikerAL_阿里云盘网",
@@ -350,8 +321,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/阿里云盘网.json",
-            "jar": "./lib/xyq.jar"
+            "ext": "./阿里云盘网.json",
+            "jar": "./xyq.jar"
         },
         {
             "key": "📀csp_XYQHikerAL_豆豆飞",
@@ -362,8 +333,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/豆豆飞.json",
-            "jar": "./lib/xyq.jar"
+            "ext": "./豆豆飞.json",
+            "jar": "./xyq.jar"
         },
         {
             "key": "📀csp_XYQHikerAL_橘子盘搜",
@@ -374,8 +345,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/橘子盘搜.json",
-            "jar": "./lib/xyq.jar"
+            "ext": "./橘子盘搜.json",
+            "jar": "./xyq.jar"
         },
         {
             "key": "📀csp_XYQHiker_DOVX搜索",
@@ -386,8 +357,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/DOVX搜索.json",
-            "jar": "./lib/xyq.jar"
+            "ext": "./DOVX搜索.json",
+            "jar": "./xyq.jar"
         },
         {
             "key": "📀csp_XYQHiker_盘搜索",
@@ -398,78 +369,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/盘搜索.json",
-            "jar": "./lib/xyq.jar"
-        },
-        {
-            "key": "🦄YiSo3",
-            "name": "🦄易搜",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto",
-            "jar": "./lib/🦄.jar"
-        },
-        {
-            "key": "🦄Zhaozy3",
-            "name": "🦄资源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto$$$fanfan$$$qqq111",
-            "jar": "./lib/🦄.jar"
-        },
-        {
-            "key": "🦄PanSou3",
-            "name": "🦄盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto",
-            "jar": "./lib/🦄.jar"
-        },
-        {
-            "key": "🦄UpYun3",
-            "name": "🦄Up搜",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto",
-            "jar": "./lib/🦄.jar"
-        },
-        {
-            "key": "🦄PanSearch3",
-            "name": "🦄盘Se",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto",
-            "jar": "./lib/🦄.jar"
-        },
-        {
-            "key": "🦄七夜3",
-            "name": "🦄七夜",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|fhd|auto",
-            "jar": "./lib/🦄.jar"
+            "ext": "./盘搜索.json",
+            "jar": "./xyq.jar"
         },
         {
             "key": "🐿t4_wo",
@@ -480,7 +381,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/ali1191.jar"
+            "jar": "./ali1191.jar"
         },
         {
             "key": "🐿csp_WoGG7",
@@ -500,7 +401,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./lib/ali1191.jar"
+            "jar": "./ali1191.jar"
         },
         {
             "key": "🐿纸条7",
@@ -510,7 +411,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./lib/ali1191.jar"
+            "jar": "./ali1191.jar"
         },
         {
             "key": "🐿易搜7",
@@ -520,7 +421,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./lib/ali1191.jar"
+            "jar": "./ali1191.jar"
         },
         {
             "key": "🐿阿里云盘7",
@@ -530,7 +431,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./lib/ali1191.jar"
+            "jar": "./ali1191.jar"
         },
         {
             "key": "🐿盘搜7",
@@ -540,7 +441,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./lib/ali1191.jar"
+            "jar": "./ali1191.jar"
         },
         {
             "key": "🐿网盘搜索7",
@@ -550,7 +451,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./lib/ali1191.jar"
+            "jar": "./ali1191.jar"
         },
         {
             "key": "🐿找资源7",
@@ -561,7 +462,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "null$$$yunshuche$$$11223344",
-            "jar": "./lib/ali1191.jar"
+            "jar": "./ali1191.jar"
         },
         {
             "key": "🐝玩偶5",
@@ -571,7 +472,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/pg.jar"
+            "jar": "./pg.jar"
         },
         {
             "key": "🦉七夜8",
@@ -581,7 +482,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/pg.jar"
+            "jar": "./pg.jar"
         },
         {
             "key": "🦉雲搜8",
@@ -591,7 +492,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/pg.jar"
+            "jar": "./pg.jar"
         },
         {
             "key": "🦉盤搜8",
@@ -601,7 +502,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/pg.jar"
+            "jar": "./pg.jar"
         },
         {
             "key": "🦉盤搜索8",
@@ -611,7 +512,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/pg.jar"
+            "jar": "./pg.jar"
         },
         {
             "key": "🦉找資源8",
@@ -621,7 +522,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$test2$$$test2",
-            "jar": "./lib/pg.jar"
+            "jar": "./pg.jar"
         },
         {
             "key": "push_agent",
@@ -642,7 +543,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "jar": "./lib/xyq.jar"
+            "jar": "./xyq.jar"
         }
     ],
     "parses": [
