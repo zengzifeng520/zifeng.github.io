@@ -103,7 +103,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "ext": "./token.txt",
             "jar": "./lib/🧚‍♂️.jar"
         },
         {
