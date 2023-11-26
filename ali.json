@@ -20,11 +20,11 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+                "token": "84e0028e4d97438283264aaa08c76240",
                 "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
                 "danmu": false
             },
-            "jar": "./lib/928.jar"
+            "jar": "./928.jar"
         },
         {
             "key": "玩偶弹幕版",
