@@ -136,8 +136,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": {
-                "token": "./token.txt",
+            "token": "./token.txt",
         },
         {
             "key": "🦊YiSo",
