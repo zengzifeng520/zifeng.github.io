@@ -35,7 +35,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "token": "./token.txt",
+                "token": "./token.txt,
                 "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
                 "danmu": true
             },
@@ -126,7 +126,7 @@
             "name": "♻️荐片",
             "type": 3,
             "api": "./lib/apiv197drpy2.min.js",
-            "ext": "./荐片.js"
+            "ext": "./lib/荐片.js"
         },
         {
             "key": "🦊csp_WoGG",
@@ -181,7 +181,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
-            "token": "./token.txt",
         },
         {
             "key": "🦊PanSearch",
@@ -274,7 +273,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/土拨鼠搜索.json",
+            "ext": "./土拨鼠搜索.json",
             "jar": "./xyq.jar"
         },
         {
@@ -392,7 +391,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./lib/ali1191.jar"
+            "jar": "./ali1191.jar"
         },
         {
             "key": "🐿UP云搜7",
@@ -463,7 +462,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "null$$$yunshuche$$$11223344",
-            "token": "./token.txt",
             "jar": "./ali1191.jar"
         },
         {
@@ -484,7 +482,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-            "token": "./token.txt",
             "jar": "./pg.jar"
         },
         {
