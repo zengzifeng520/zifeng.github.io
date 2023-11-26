@@ -19,8 +19,8 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": {
-                "token": "84e0028e4d97438283264aaa08c76240",
+            "ext": {https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt"
+                "token": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt",
                 "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
                 "danmu": false
             },
@@ -34,12 +34,12 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "ext": {https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt",
+                "token": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt",
                 "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
                 "danmu": true
             },
-            "jar": "./lib/1012.jar"
+            "jar": "./1012.jar"
         },
         {
             "key": "csp_Alistxy",
@@ -62,7 +62,7 @@
             "ext": {
                 "danmu": false
             },
-            "jar": "./lib/1012.jar"
+            "jar": "./1012.jar"
         },
         {
             "key": "荐片弹幕版",
