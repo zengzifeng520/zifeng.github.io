@@ -23,9 +23,8 @@
        "token": "84e0028e4d97438283264aaa08c76240",
        "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
        "danmu": false
-       },
-      "jar": "./928.jar" 
-    },
+       "jar": "./928.jar"        
+    },    
     {
       "key": "快云资源",
       "name": "快云采集",
