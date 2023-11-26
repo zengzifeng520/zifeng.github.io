@@ -35,7 +35,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "token": "./token.txt"",
+                "token": "./token.txt",
                 "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
                 "danmu": true
             },
