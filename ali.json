@@ -24,7 +24,7 @@
                 "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
                 "danmu": false
             },
-            "jar": "./928.jar"
+            "jar": "./lib/928.jar"
         },
         {
             "key": "玩偶弹幕版",
