@@ -97,6 +97,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "token": "./token.txt",
             "jar": "./HeChengChaXiupm.jar"
         },
         {
@@ -108,6 +109,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "token": "./token.txt",
             "jar": "./HeChengChaXiupm.jar"
         },
         {
@@ -119,6 +121,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$ygfxz$$$66666",
+            "token": "./token.txt",
             "jar": "./HeChengChaXiupm.jar"
         },
         {
@@ -137,6 +140,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
+            "token": "./token.txt",
         },
         {
             "key": "🦊YiSo",
@@ -148,6 +152,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
+            "token": "./token.txt",
         },
         {
             "key": "🦊Zhaozy",
@@ -159,6 +164,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"
+            "token": "./token.txt",
         },
         {
             "key": "🦊PanSou",
@@ -170,6 +176,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
+            "token": "./token.txt",
         },
         {
             "key": "🦊UpYun",
@@ -181,6 +188,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
+            "token": "./token.txt",
         },
         {
             "key": "🦊PanSearch",
@@ -192,6 +200,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
+            "token": "./token.txt",
         },
         {
             "key": "🦊七夜",
@@ -203,6 +212,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
+            "token": "./token.txt",
         },
         {
             "key": "📀Gitcafe",
@@ -214,6 +224,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "token": "./token.txt",
             "jar": "./xyq.jar"
         },
         {
@@ -226,6 +237,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$yannanfei$$$abcdefg",
+            "token": "./token.txt",
             "jar": "./xyq.jar"
         },
         {
@@ -238,6 +250,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "token": "./token.txt",
             "jar": "./xyq.jar"
         },
         {
@@ -250,6 +263,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "token": "./token.txt",
             "jar": "./xyq.jar"
         },
         {
@@ -262,6 +276,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "token": "./token.txt",
             "jar": "./xyq.jar"
         },
         {
@@ -381,6 +396,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "token": "./token.txt",
             "jar": "./ali1191.jar"
         },
         {
@@ -462,6 +478,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "null$$$yunshuche$$$11223344",
+            "token": "./token.txt",
             "jar": "./ali1191.jar"
         },
         {
@@ -472,6 +489,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "token": "./token.txt",
             "jar": "./pg.jar"
         },
         {
@@ -482,6 +500,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "token": "./token.txt",
             "jar": "./pg.jar"
         },
         {
@@ -492,6 +511,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "token": "./token.txt",
             "jar": "./pg.jar"
         },
         {
@@ -502,6 +522,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "token": "./token.txt",
             "jar": "./pg.jar"
         },
         {
@@ -512,6 +533,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "token": "./token.txt",
             "jar": "./pg.jar"
         },
         {
@@ -522,6 +544,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$test2$$$test2",
+            "token": "./token.txt",
             "jar": "./pg.jar"
         },
         {
@@ -532,6 +555,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
+            "token": "./token.txt",
         },
         {
             "key": "push_agent",
@@ -543,6 +567,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "token": "./token.txt",
             "jar": "./xyq.jar"
         }
     ],
