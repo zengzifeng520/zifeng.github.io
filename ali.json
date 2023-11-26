@@ -42,16 +42,6 @@
             "jar": "./1012.jar"
         },
         {
-            "key": "csp_Alistxy",
-            "name": "🅿️Alist网盘",
-            "type": 3,
-            "jar": "./lib/AListxy.jar",
-            "api": "csp_AListxy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "./Alistxy.json"
-        },
-        {
             "key": "荐片",
             "name": "荐片",
             "type": 3,
