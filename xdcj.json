@@ -42,6 +42,26 @@
     "jar": "./lib/1012.jar"
     },
     {
+      "key": "drpy_js_虎牙直播",
+      "name": "🐯虎牙直播",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/虎牙直播.js"
+    },
+    {
+      "key": "drpy_js_斗鱼直播",
+      "name": "🐠斗鱼直播",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/斗鱼直播.js"
+    },
+    {
       "key": "csp_Bili",
       "name": "🅱️哔哩哔哩",
       "type": 3,
@@ -52,113 +72,11 @@
       "ext": "./lib/Bili.json"
     },
     {
-      "key":"直播",
-      "name":"💻电视直播",
-      "type":3,
-      "api":"https://jihulab.com/owen2000wy/owentv/-/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
-      "ext":"🐱抖音猫贩子$./zhibo.txt&&&https://api.caonm.net/api/mc/"},
-    {
-      "key": "🦊YiSo",
-      "name": "🦊易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "🦊Zhaozy",
-      "name": "🦊找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"
-    },
-    {
-      "key": "🦊PanSou",
-      "name": "🦊盘搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "🦊UpYun",
-      "name": "🦊Up搜",
-       "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "🦊PanSearch",
-      "name": "🦊盘Se",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "🦊七夜",
-      "name": "🦊七夜",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "📀Gitcafe",
-      "name": "📀小纸条",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-      "jar": "./lib/xyq.jar"
-    },
-    {
-      "key": "📀csp_Zhaozy5",
-      "name": "📀找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$yannanfei$$$abcdefg",
-      "jar": "./lib/xyq.jar"
-    },
-    {
-      "key": "📀csp_XYQHikerAL_玩偶哥哥",
-      "name": "📀玩偶哥哥",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/玩偶哥哥.json",
-      "jar": "./lib/xyq.jar"
-    },
+    "key":"直播",
+    "name":"💻电视直播",
+    "type":3,
+    "api":"https://jihulab.com/owen2000wy/owentv/-/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
+    "ext":"🐱抖音猫贩子$./zhibo.txt&&&https://api.caonm.net/api/mc/"},
     {
       "key": "快云资源",
       "name": "快云采集",
@@ -2745,7 +2663,7 @@
       "url": "./zhibo.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ], 
