@@ -20,7 +20,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "./token.txt",
+                "token": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
                 "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
                 "danmu": false
             },
@@ -35,7 +35,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "token": "./token.txt",
+                "token": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
                 "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
                 "danmu": true
             },
@@ -92,7 +92,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/🐿ali.jar"
         },
         {
@@ -103,7 +103,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=headst",
             "jar": "./lib/🧚‍♂️.jar"
         },
         {
@@ -114,7 +114,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/HeChengChaXiupm.jar"
         },
         {
@@ -125,7 +125,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=headst",
             "jar": "./lib/HeChengChaXiupm.jar"
         },
         {
@@ -136,7 +136,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/HeChengChaXiupm.jar"
         },
         {
@@ -147,7 +147,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/HeChengChaXiupm.jar"
         },
         {
@@ -165,7 +165,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "./token.txt"
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
         },
         {
             "key": "🦊YiSo",
@@ -176,7 +176,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./token.txt"
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
         },
         {
             "key": "🦊Zhaozy",
@@ -187,7 +187,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./token.txt"
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
         },
         {
             "key": "🦊PanSou",
@@ -198,7 +198,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./token.txt"
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
         },
         {
             "key": "🦊UpYun",
@@ -209,7 +209,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./token.txt"
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
         },
         {
             "key": "🦊PanSearch",
@@ -220,7 +220,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./token.txt"
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
         },
         {
             "key": "🦊七夜",
@@ -231,7 +231,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./token.txt"
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
         },
         {
             "key": "📀Gitcafe",
@@ -242,7 +242,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/xyq.jar"
         },
         {
@@ -254,7 +254,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/xyq.jar"
         },
         {
@@ -266,7 +266,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/xyq.jar"
         },
         {
@@ -278,7 +278,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/xyq.jar"
         },
         {
@@ -290,7 +290,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/xyq.jar"
         },
         {
@@ -410,7 +410,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/🦄.jar"
         },
         {
@@ -422,7 +422,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/🦄.jar"
         },
         {
@@ -434,7 +434,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/🦄.jar"
         },
         {
@@ -446,7 +446,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/🦄.jar"
         },
         {
@@ -457,7 +457,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/🦄.jar"
         },
         {
@@ -468,7 +468,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/🦄.jar"
         },
         {
@@ -479,7 +479,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/ali1191.jar"
         },
         {
@@ -580,7 +580,7 @@
             "api": "csp_Dovx",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/pg.jar"
         },
         {
@@ -590,7 +590,7 @@
             "api": "csp_UpYun",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/pg.jar"
         },
         {
@@ -600,7 +600,7 @@
             "api": "csp_PanSou",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/pg.jar"
         },
         {
@@ -610,7 +610,7 @@
             "api": "csp_PanSearch",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/pg.jar"
         },
         {
@@ -620,7 +620,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/pg.jar"
         },
         {
@@ -630,7 +630,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd"
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
         },
         {
             "key": "push_agent",
@@ -641,7 +641,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
             "jar": "./lib/xyq.jar"
         }
     ],
