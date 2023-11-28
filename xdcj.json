@@ -2795,7 +2795,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./lib/zhibo.txt",
+      "url": "./zhibo.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
