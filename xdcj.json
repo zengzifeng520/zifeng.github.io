@@ -19,7 +19,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "./token.txt",
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
     "jar": "./lib/HeChengChaXiupm.jar"
     },
     {
@@ -41,7 +41,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "./token.txt"
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
     },
     {
     "key": "🦊Zhaozy",
@@ -52,7 +52,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "./token.txt"
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
     },
     {
     "key": "🦊PanSou",
@@ -63,7 +63,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "./token.txt"
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
     },
     {
     "key": "🦊UpYun",
@@ -74,7 +74,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "./token.txt"
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
     },
     {
     "key": "🦊PanSearch",
@@ -85,7 +85,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "./token.txt"
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
     },
     {
     "key": "🦊七夜",
@@ -96,7 +96,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 1,
-    "ext": "./token.txt"
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
     },  
     {
     "key": "🦉七夜8",
@@ -105,7 +105,7 @@
     "api": "csp_Dovx",
     "searchable": 1,
     "changeable": 1,
-    "ext": "./token.txt",
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
     "jar": "./lib/pg.jar"
     },
     {
@@ -115,7 +115,7 @@
     "api": "csp_UpYun",
     "searchable": 1,
     "changeable": 1,
-    "ext": "./token.txt",
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
     "jar": "./lib/pg.jar"
     },
  
@@ -163,7 +163,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "./token.txt",
+    "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
     "jar": "./lib/HeChengChaXiupm.jar"
     },
     {
@@ -175,7 +175,7 @@
     "filterable": 1,
     "changeable": 1,
     "ext": {
-        "token": "./token.txt",
+        "token": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
         "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
         "danmu": false
     },
@@ -190,7 +190,7 @@
     "filterable": 1,
     "changeable": 0,
     "ext": {
-        "token": "./token.txt",
+        "token": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
         "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
         "danmu": true
     },
@@ -2798,7 +2798,7 @@
       "url": "./zhibo.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ], 
