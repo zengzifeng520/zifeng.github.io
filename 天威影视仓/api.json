@@ -840,7 +840,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "./lives/live.txt",
+            "url": "https://jihulab.com/zeng2/zifeng/-/raw/main/iptv.txt?ref_type=heads",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ]
