@@ -19,8 +19,7 @@
             "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
-            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"			
+            "filterable": 1		
         },
 		    {
       "key": "玩偶哥哥",
