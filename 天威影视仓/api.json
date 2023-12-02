@@ -16,8 +16,7 @@
             "key": "csp_woggcli",
             "name": "🇹┃玩偶4K（T4）",
             "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=
-https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads
+            "api": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads
 
 ",
             "searchable": 1,
