@@ -12,16 +12,21 @@
             "quickSearch": 0,
             "filterable": 0
         },
-		                {
-            "key": "csp_woggcli",
-            "name": "🇹┃玩偶4K（T4）",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-		    {
+        {
+      "key": "玩偶",
+      "name": "🐱玩偶猫贩子|4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
+        "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
+        "danmu": false
+       },
+      "jar": "./lib/928.jar"
+       {
       "key": "玩偶哥哥",
       "name": "🇹┃玩偶4K┃弹幕",
       "type": 3,
@@ -30,7 +35,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
-    },
+       },
 {"key":"优酷","name":"🇹┃优酷官┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
 {"key":"芒果","name":"🇹┃芒果官┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
 {"key":"爱奇异","name":"🇹┃奇艺官┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
