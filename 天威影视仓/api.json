@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "豆瓣推荐🌕公众号【天微科技】",
+            "name": "豆瓣推荐🌕猫贩子",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -20,6 +20,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+            "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"			
         },
 		    {
       "key": "玩偶哥哥",
@@ -29,7 +30,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
     },
 {"key":"优酷","name":"🇹┃优酷官┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
 {"key":"芒果","name":"🇹┃芒果官┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
