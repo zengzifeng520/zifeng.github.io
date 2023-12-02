@@ -1,4 +1,3 @@
-//关注微信公众号：天微科技，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -17,7 +16,10 @@
             "key": "csp_woggcli",
             "name": "🇹┃玩偶4K（T4）",
             "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=
+52b1ef03faf34218a4165678289e3684
+
+",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -30,7 +32,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads"
     },
 {"key":"优酷","name":"🇹┃优酷官┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
 {"key":"芒果","name":"🇹┃芒果官┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
