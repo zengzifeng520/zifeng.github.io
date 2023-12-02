@@ -24,7 +24,7 @@
         "token": "https://jihulab.com/zeng2/zifeng/-/raw/main/token.txt?ref_type=heads",
         "filter": "http://ftp6587948.host121.Sanfengyun.cn/json/wogg.json",
         "danmu": false
-       },
+       }
       "jar": "./lib/928.jar"
        },
        {
