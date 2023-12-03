@@ -12,16 +12,6 @@
     "filterable":1
     },
     {
-    "key": "csp_Alistxy",
-    "name": "Alist网盘",
-    "type": 3,
-    "jar": "./lib/AListxy.jar",
-    "api": "csp_AListxy",
-    "searchable": 1,
-    "quickSearch": 1,
-    "ext": "./lib/Alistxy.json"
-    },
-    {
     "key": "🍮Gitcafe6",
     "name": "🍮纸条搜",
     "type": 3,
