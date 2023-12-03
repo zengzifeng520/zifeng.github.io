@@ -1,4 +1,4 @@
-{"sites": [{ "exe": "./天微影视仓/api.json", "name": "天微影视VIP线" },
+{ "urls": [{ "url": "./天微影视仓/api.json", "name": "天微影视VIP线" },
 
 { "url": "./饭太硬/api.json", "name": "饭太硬" },
 
