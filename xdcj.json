@@ -13,7 +13,7 @@
     },
     {
     "key": "csp_Alistxy",
-    "name": "🅿️Alist网盘",
+    "name": "Alist网盘",
     "type": 3,
     "jar": "./lib/AListxy.jar",
     "api": "csp_AListxy",
