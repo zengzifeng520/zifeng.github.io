@@ -1,12 +1,12 @@
 {"sites": [{ "exe": "./天微影视仓/api.json", "name": "天微影视VIP线" },
 
-{ "url": "https://raw.githubusercontent.com/zengzifeng520/zifeng.github.io/main/饭太硬/api.json", "name": "饭太硬" },
+{ "url": "./饭太硬/api.json", "name": "饭太硬" },
 
-{ "url": "https://raw.githubusercontent.com/zengzifeng520/zifeng.github.io/main/小米/api.json", "name": "小米" },
+{ "url": "./小米/api.json", "name": "小米" },
 
-{ "url": "https://raw.githubusercontent.com/zengzifeng520/zifeng.github.io/main/摸鱼/api.json", "name": "摸鱼" },
+{ "url": "./摸鱼/api.json", "name": "摸鱼" },
 
-{ "url": "https://raw.githubusercontent.com/zengzifeng520/zifeng.github.io/main/OK大佬/api.json", "name": "OK大佬" },
+{ "url": "./OK大佬/api.json", "name": "OK大佬" },
 
 { "url": "./冉神/api.json", "name": "冉神" },
 
