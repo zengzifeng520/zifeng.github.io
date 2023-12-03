@@ -1,0 +1,279 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "url": "http://111.67.195.139/jpg/打赏业余.jpeg",
+                "icon": "http://111.67.195.139/jpg/打赏业余.jpeg"
+            }
+        ]
+    },
+    {
+        "name": "壳子内置版",
+        "list": [
+            {
+                "name": "影视TV内置",
+                "url": "http://111.67.195.139/本地包/影视TV版_2.0.7.apk",
+                "icon": "http://111.67.195.139/jpg/r8nk2.png",
+                "version": "v7a"
+            },
+            {
+                "name": "业余影视",
+                "url": "http://111.67.195.139/本地包/业余影视.apk",
+                "icon": "http://111.67.195.139/jpg/yy.png",
+                "version": "1028"
+            },
+            {
+                "name": "竖版MBOX",
+                "url": "http://111.67.195.139/本地包/TVBoxMobile_v1.0.1.apk",
+                "icon": "http://111.67.195.139/jpg/mbox.png",
+                "version": "1.0.1"
+            },
+            {
+                "name": "影视仓内置",
+                "url": "http://111.67.195.139/本地包/影视仓.apk",
+                "icon": "http://111.67.195.139/jpg/ysc.png",
+                "version": "5.0.11"
+            }
+        ]
+    },
+    {
+        "name": "优先推荐壳子",
+        "list": [
+            {
+                "name": "影视TV正式版",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "影视手機正式版",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "影视TV内测版",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "影视手機内测版",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "TV版(4.1-4.4)",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            }
+        ]
+    },
+    {
+        "name": "影视正式版",
+        "list": [
+            {
+                "name": "TV版-java32",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "TV版-java64",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "TV版-py32",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "TV版-py64",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "手機版-java32",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "手機版-java64",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "手機版-py32",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "手機版-py64",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "TV版(4.1-4.4)",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            }
+        ]
+    },
+    {
+        "name": "影视内测版",
+        "list": [
+            {
+                "name": "TV版-java32",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "TV版-java64",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "TV版-py32",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "TV版-py64",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "手機版-java32",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "手機版-java64",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "手機版-py32",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "手機版-py64",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png"
+            },
+            {
+                "name": "TV版(4.1-4.4)",
+                "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+                "version": "2.0.7"
+            }
+        ]
+    },
+    {
+        "name": "SO-v7a",
+        "list": [
+            {
+                "name": "荐片",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libjpa_armeabi_v7a.so",
+                "icon": "http://111.67.195.139/jpg/r8nk2.png"
+            },
+            {
+                "name": "磁力-1",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libxl_stat_armeabi_v7a.so",
+                "icon": "http://111.67.195.139/jpg/r8nk2.png"
+            },
+            {
+                "name": "磁力-2",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libxl_thunder_sdk_armeabi_v7a.so",
+                "icon": "http://111.67.195.139/jpg/r8nk2.png"
+            },
+            {
+                "name": "晴天",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libmitv.so",
+                "icon": "http://111.67.195.139/jpg/r8nk2.png"
+            },
+            {
+                "name": "P2P",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp2p.so",
+                "icon": "http://111.67.195.139/jpg/r8nk2.png"
+            },
+            {
+                "name": "P3P",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp3p.so",
+                "icon": "http://111.67.195.139/jpg/r8nk2.png"
+            },
+            {
+                "name": "P4P",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp4p.so",
+                "icon": "http://111.67.195.139/jpg/r8nk2.png"
+            },
+            {
+                "name": "P5P",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp5p.so",
+                "icon": "http://111.67.195.139/jpg/r8nk2.png"
+            },
+            {
+                "name": "P6P",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp6p.so",
+                "icon": "http://111.67.195.139/jpg/r8nk2.png"
+            },
+            {
+                "name": "P7P",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp7p.so",
+                "icon": "http://111.67.195.139/jpg/r8nk2.png"
+            },
+            {
+                "name": "P8P",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp8p.so",
+                "icon": "http://111.67.195.139/jpg/r8nk2.png"
+            },
+            {
+                "name": "P9P",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp9p.so",
+                "icon": "http://111.67.195.139/jpg/r8nk2.png"
+            }
+        ]
+    },
+    {
+        "name": "SO-v8a",
+        "list": [
+            {
+                "name": "荐片",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libjpa_arm64_v8a.so",
+                "icon": "http://111.67.195.139/jpg/r8nk2.png"
+            },
+            {
+                "name": "磁力-1",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libxl_stat_arm64_v8a.so",
+                "icon": "http://111.67.195.139/jpg/r8nk2.png"
+            },
+            {
+                "name": "磁力-2",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libxl_thunder_sdk_arm64_v8a.so",
+                "icon": "http://111.67.195.139/jpg/r8nk2.png"
+            }
+        ]
+    },
+    {
+        "name": "本地包",
+        "list": [
+            {
+                "name": "业余影视",
+                "url": "http://111.67.195.139/本地包/业余影视.zip",
+                "icon": "http://111.67.195.139/jpg/业余影视.jpeg",
+                "version": "0917"
+            },
+            {
+                "name": "watson",
+                "url": "http://111.67.195.139/本地包/watson.zip",
+                "icon": "http://111.67.195.139/jpg/watson.jpeg",
+                "version": "1027"
+            },
+            {
+                "name": "香雅情",
+                "url": "http://111.67.195.139/本地包/XYQTVBox.zip",
+                "icon": "http://111.67.195.139/jpg/xyq.jpeg",
+                "version": "1107"
+            }
+        ]
+    }
+]
