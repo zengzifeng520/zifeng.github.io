@@ -1,4 +1,4 @@
-{ "urls": [{ "url": "https://raw.githubusercontent.com/zengzifeng520/zifeng.github.io/main/天微影视仓/api.json", "name": "天微影视VIP线" },
+{"sites": [{ "exe": "./天微影视仓/api.json", "name": "天微影视VIP线" },
 
 { "url": "https://raw.githubusercontent.com/zengzifeng520/zifeng.github.io/main/饭太硬/api.json", "name": "饭太硬" },
 
