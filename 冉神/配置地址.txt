@@ -1,0 +1,3 @@
+clan://localhost/tvbox/冉神/冉神.json
+
+https://download.kstore.space/download/5242/冉神.json
