@@ -1,7 +1,7 @@
 
 {
     "spider": "./spider.jar",
-    "wallpaper": "http://3650000.xyz/api",
+    "wallpaper": "http://3650000.xyz/api/bing.php?d=2",
     "sites": [
             		{
             "key": "豆豆",
