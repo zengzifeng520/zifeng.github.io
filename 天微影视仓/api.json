@@ -1046,7 +1046,7 @@
       "url": "https://jihulab.com/zeng2/zifeng/-/raw/main/iptv.txt?ref_type=heads",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "epg": "./e.xml",
       "logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
     }
   ]
